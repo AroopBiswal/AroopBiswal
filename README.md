@@ -6,7 +6,7 @@ I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science 
 
 - **Software Engineer Intern at [Hawcx](https://www.hawcx.com/)**  
   *June 2024 - August 2024*  
-  Contributed to both backend and frontend development (MERN stack), building and optimizing key features for the platform. Focused on integrating backend APIs with the frontend user interface, ensuring seamless functionality and user experience across the system. Played a central role in tying together different components to create a cohesive product.
+  Contributed to both backend and frontend development (MERN stack), building and optimizing the self-serve feature for the platform. Focused on containerizing (using Docker) and deploying backend microservices to AWS, ensuring seamless functionality and user experience across the system.
 
 - **Software Engineer Intern at [Valley Tech Systems](https://vts-i.com/)**  
   *June 2023 – September 2023*  
