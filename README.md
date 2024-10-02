@@ -16,10 +16,10 @@ I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science 
   *June 2022 - September 2022*  
   Created a video streaming pipeline for an internal voice chat tool and implemented machine learning enhancements, including eyeglass-glare reduction and automatic face centering.
 
-- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**
+- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**  
   *June 2019 - August 2019*
 
-- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**
+- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**  
   *June 2018 - August 2018*
 
 
