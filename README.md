@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science and Engineering. I'm very passionate about AI/Machine Learning and I have experience working with this domain in both large companies and fast-paced startups. I am currently a SWE working  at [Meaku AI](https://meaku.ai/) where I'm building an AI-first customer service agent.  We've recently launched our product to several clients, and it's been exciting to see it start making a real impact in the field 🤗.
+I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science and Engineering. I am currently a SWE working at Meta where I work on Monetization, specifically on Ads Infra.
 
 ### 🔄 Previous Experiences 🔄
 
