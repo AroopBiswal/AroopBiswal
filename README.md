@@ -13,7 +13,7 @@ I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science 
   *January 2025 – May 2026*
   - Independently designed and shipped large-scale ad delivery optimizations across Messenger, Facebook Profile Feed, and Mobile Stories, driving an estimated $59M in incremental annual advertising revenue.
   - Implemented end-to-end prefetch systems across three high-traffic surfaces, improving ad load latency and increasing global ad revenue by +0.030%.
-  - Built and led development of the Ad Experiment Agent (AEA), now the #1 most-used AI tool in the Ads organization (54 users), automating experiment querying and report generation and saving ~7,000 engineering hours annually (~$1M in productivity gains).
+  - Built and led development of the Ad Experiment Agent (AEA) automating experiment querying and report generation and saving ~7,000 engineering hours annually
   - Delivered advanced analytics features, owned the product roadmap, and presented to 50+ engineers to drive adoption.
 
 - **Software Engineer Intern at [Breakout AI](#)**
