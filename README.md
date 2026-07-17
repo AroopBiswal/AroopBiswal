@@ -1,40 +1,47 @@
-## Hi there! 👋
+## Hi! 👋
 
-I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science and Engineering. I am currently a SWE working at Meta where I work on Monetization, specifically on Ads Infra.
+I'm Aroop, I graduated in June 2024 from UC Davis with a BS in Computer Science and Engineering. I'm currently a Software Engineer at **Google**, working on Infra at Google Cloud.
 
-### 🔄 Previous Experiences 🔄
+### 📍 Currently
 
-- **Software Engineer Intern at [Hawcx](https://www.hawcx.com/)**  
-  *June 2024 - August 2024*  
-  Contributed to both backend and frontend development (MERN stack), building and optimizing the self-serve feature for the platform. Focused on containerizing (using Docker) and deploying backend microservices to AWS, ensuring seamless functionality and user experience across the system.
+**Software Engineer at [Google](https://cloud.google.com/)** · *July 2026 – Present*
+- Infra at Google Cloud.
 
-- **Software Engineer Intern at [Valley Tech Systems](https://vts-i.com/)**  
-  *June 2023 – September 2023*  
-  Used Tensorflow to train a machine learning model to track airplanes in real-time and automatically capture images, followed by classifying the aircraft and the image's 'pictureworthiness'. Integrated this system into the company's primary software tool which is used by the US military.
+### 🔄 Experience 🔄
 
-- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**  
-  *June 2022 - September 2022*  
-  Created a video streaming pipeline for an internal voice chat tool and implemented machine learning enhancements, including eyeglass-glare reduction and automatic face centering.
+- **Software Engineer at [Meta](https://about.meta.com/)**
+  *January 2025 – May 2026*
+  - Independently designed and shipped large-scale ad delivery optimizations across Messenger, Facebook Profile Feed, and Mobile Stories, driving an estimated $59M in incremental annual advertising revenue.
+  - Implemented end-to-end prefetch systems across three high-traffic surfaces, improving ad load latency and increasing global ad revenue by +0.030%.
+  - Built and led development of the Ad Experiment Agent (AEA), now the #1 most-used AI tool in the Ads organization (54 users), automating experiment querying and report generation and saving ~7,000 engineering hours annually (~$1M in productivity gains).
+  - Delivered advanced analytics features, owned the product roadmap, and presented to 50+ engineers to drive adoption.
 
-- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**  
-  *June 2019 - August 2019*
+- **Software Engineer Intern at [Breakout AI](#)**
+  *August 2024 – September 2024*
+  - Built a RAG agent with dynamic LLM parameters (top-k, temperature, response length) and context-aware prompt generation.
+  - Fine-tuned OpenAI and Anthropic models on 150 curated conversations and launched to a client site serving 20k+ monthly visitors.
 
-- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html?cid=sem&source=sa360&campid=2024_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_brand_exact_cd_HQ-intel-brand-global_3500268603_google_b2b_is_non-pbm_intel&ad_group=Corp-Brand_Brand-Core_Core_Exact&intel_term=intel+corporation&sa360id=43700079788652494&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRDnGaJsRV0EVuFIiKcg46jEwbxCJhHS9QSUWsutpnfbx4KMxar7X4aApiGEALw_wcB&gclsrc=aw.ds)**  
-  *June 2018 - August 2018*
+- **Software Engineer Intern at [Hawcx](https://www.hawcx.com/)**
+  *June 2024 – August 2024*
+  - Built and optimized the platform's self-serve feature across the full MERN stack.
+  - Containerized backend microservices with Docker and deployed them to AWS.
 
+- **Software Systems Engineer Intern at [Valley Tech Systems](https://vts-i.com/)**
+  *June 2023 – September 2023*
+  - Led a team of 3 interns as the primary ML developer.
+  - Built a Python pipeline that prepared 10k+ training images, then trained a CNN in TensorFlow for object classification and shipped it into the company's product.
 
+- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/)**
+  *June 2022 – September 2022* · Hillsboro, OR
+  - Independently built a video-processing pipeline with ML capabilities using Intel DLStreamer and OpenVINO.
+  - Authored Windows porting documentation that enabled future official Windows support.
 
-<!--
-**AroopBiswal/AroopBiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/)**
+  *June 2019 – August 2019*
+  - Retrained an image classification model and benchmarked it on Intel silicon with OpenVINO.
+  - Provided software support for the Intel Aero drone, resolving 30+ client tickets.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Software Engineer Intern at [Intel Corporation](https://www.intel.com/)**
+  *June 2018 – August 2018*
+  - Managed daily technical escalations for Intel's dev boards, drones, and cameras.
+  - Automated large-scale customer data migration to a new database and delivered Linux-based fixes for external tickets.
